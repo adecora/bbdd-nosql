@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "yzhang.markdown-all-in-one",
+    "bierner.markdown-mermaid",
+    "yzane.markdown-pdf",
+    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker-spanish",
+    "esbenp.prettier-vscode",
+    "neo4j-extensions.neo4j-for-vscode"
+  ]
+}

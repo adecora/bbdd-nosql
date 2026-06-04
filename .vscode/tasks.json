@@ -1,0 +1,18 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Ejecutar script en Mongo-NTIC",
+      "type": "shell",
+      "command": "docker cp ${workspaceFolder}/${fileBasename} mongo-ntic:/tmp && docker exec -it mongo-ntic mongosh /tmp/${fileBasename}",
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "reveal": "always"
+      }
+    }
+  ]
+}
