@@ -24,9 +24,9 @@ En el apartado **Modelado de datos para MongoDB** del [notebook](notebooks/explo
 
 Las soluciones a los ejercicios, [**mongo1.js**](mongo1.js) y [**mongo2.js**](mongo2.js), están preparadas para ejecutarse como scripts desde la consola **mongosh**, una vez cargadas la base de datos **raw_db** y sus colecciones.
 
-![Ejecución de la solución de la parte 1](ejemplo1.webm)
+![Ejecución de la solución de la parte 1](ejemplo1.gif)
 
-![Ejecución de la solución de la parte 2](ejemplo2.webm)
+![Ejecución de la solución de la parte 2](ejemplo2.gif)
 
 ## Reto 3: Modelo de grafo
 
